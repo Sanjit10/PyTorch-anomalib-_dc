@@ -10,3 +10,9 @@ bandit          # security analysis
 read-version
 wheel
 setuptools
+ultralytics
+PyQt5
+Pydantic
+pyqt5-tools
+matplotlib
+pandas
