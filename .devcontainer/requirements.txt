@@ -1,18 +1,68 @@
-# these requirements are only required for development inside vscode
-pre-commit      # hooks for applying linters on commit
-black           # code formatting
-isort           # import sorting
-flake8          # code analysis
-pylint          # code analysis
-bandit          # security analysis
-
-# auxiliary requirements
-read-version
-wheel
-setuptools
-ultralytics
+albumentations
+bandit
+black
+certifi
+charset-normalizer
+colorama
+contourpy
+cycler
+efficientnet-pytorch
+filelock
+flake8
+fonttools
+fsspec
+geomdl
+GitPython
+gitdb
+huggingface-hub
+idna
+imageio
+isort
+joblib
+kiwisolver
+lazy_loader
+matplotlib
+matplotlib-inline
+munch
+networkx
+numpy
+opencv-contrib-python
+opencv-python
+opencv-python-headless
+packaging
+pandas
+Pillow
+pre-commit
+pretrainedmodels
+psutil
+pybboxes
 PyQt5
+pyparsing
+pylint
 Pydantic
 pyqt5-tools
-matplotlib
-pandas
+python-dateutil
+pytz
+PyYAML
+qudida
+read-version
+requests
+safetensors
+scikit-image
+scikit-learn
+scipy
+seaborn
+segmentation-models-pytorch
+setuptools
+six
+smmap
+thop
+threadpoolctl
+tifffile
+timm
+tqdm
+typing_extensions
+tzdata
+ultralytics
+urllib3
+wheel
