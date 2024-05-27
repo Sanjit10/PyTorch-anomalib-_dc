@@ -36,11 +36,9 @@ pre-commit
 pretrainedmodels
 psutil
 pybboxes
-PyQt5
 pyparsing
 pylint
 Pydantic
-pyqt5-tools
 python-dateutil
 pytz
 PyYAML
