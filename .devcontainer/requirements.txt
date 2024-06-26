@@ -1,4 +1,5 @@
 albumentations
+anomalib
 bandit
 black
 certifi
@@ -7,6 +8,7 @@ colorama
 contourpy
 cycler
 efficientnet-pytorch
+fastapi
 filelock
 flake8
 fonttools
@@ -15,6 +17,7 @@ geomdl
 GitPython
 gitdb
 huggingface-hub
+lightning
 idna
 imageio
 isort
