@@ -67,3 +67,10 @@ tzdata
 ultralytics
 urllib3
 wheel
+imgaug
+einops
+kornia
+FrEIA
+open-clip-torch
+wandb
+openvino

@@ -1,6 +1,7 @@
 datasets/
 pre_trained/
 results/
+/inf_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
